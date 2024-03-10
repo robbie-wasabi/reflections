@@ -14,5 +14,4 @@ layout:
 
 # README
 
-This repository is a collection of original notes/papers/stories, all of which are incomplete. \
-\
+This repository is a collection of original notes/papers/stories, all of which are incomplete.&#x20;
